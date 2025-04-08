@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hello world, I'm Nguyen Van Dai</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hi+I'm+Dai!;Java+Backend+Developer;Love+Spring+%26+Vue.js" alt="Typing SVG" />
+</p>
 
 <p align="center">
   🚀 Java Developer | 🖥 Fullstack Engineer 
